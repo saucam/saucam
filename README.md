@@ -1,4 +1,38 @@
-### Hi there 👋
+<h1 align='center'>
+    Hello I'm Yash 👋
+</h1>
+
+<p align='center'>
+    Long time open source enthusiast, scala fanboy, with special interest in theology. Currently pursuing a part-time masters in computer science from Columbia University
+</p>
+
+<p align='center'>
+
+  <a href="https://www.linkedin.com/in/ydatta/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+</p>
+
+---
+
+<p align='center'>
+🌱 My tech interests include ...
+- Data Engineering
+- NLP (Semantic Search, Sanskrit parsing, generation)
+- Computer Vision
+- Software Engineering
+</p>
+
+<p align='center'>
+    📫 How to reach me: yd2590@columbia.edu
+</p>
+
+<p align='center'>
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=saucam&hide=["issues"]&show_icons=true)
+</p>
+
+![](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fhits.dwyl.com%2Fsaucam%2Fsaucam.json)
 
 <!--
 **saucam/saucam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
