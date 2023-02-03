@@ -28,10 +28,7 @@
 
 <p align='center'>
 🌱 My tech interests include ...
-- Data Engineering
-- NLP (Semantic Search, Sanskrit parsing, generation)
-- Computer Vision
-- Software Engineering
+Data Engineering - NLP (Semantic Search) - Computer Vision - Software Engineering
 </p>
 
 <p align='center'>
