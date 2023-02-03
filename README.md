@@ -6,6 +6,16 @@
     Long time open source enthusiast, scala fanboy, with special interest in theology. Currently pursuing a part-time masters in computer science from Columbia University
 </p>
 
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+##
+
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/ydatta/">
@@ -29,7 +39,7 @@
 </p>
 
 <p align='center'>
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=saucam&hide=["issues"]&show_icons=true)
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saucam&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 ![](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fhits.dwyl.com%2Fsaucam%2Fsaucam.json)
