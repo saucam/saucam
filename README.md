@@ -3,19 +3,24 @@
 </h1>
 
 <p align='center'>
-    Long time open source enthusiast, scala fanboy, with special interest in theology. Currently pursuing a part-time masters in computer science from Columbia University
+    Builder. Maker. Open source enthusiast.
 </p>
 
 <div style="display: inline_block" align="center" ><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
 
+<div style="display: inline_block" align="center" ><br>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
+
+</div>
+
+##
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/ydatta/">
@@ -27,8 +32,7 @@
 ---
 
 <p align='center'>
-🌱 My tech interests include ...
-Data Engineering - NLP (Semantic Search) - Computer Vision - Software Engineering
+Data Engineering | NLP (Semantic Search) | Computer Vision | Software Engineering
 </p>
 
 <p align='center'>
