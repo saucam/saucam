@@ -15,12 +15,7 @@
 
 ##
 
-<div style="display: inline_block" align="center" ><br>
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
 
-</div>
-
-##
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/ydatta/">
@@ -35,6 +30,10 @@
 Data Engineering | NLP (Semantic Search) | Computer Vision | Software Engineering
 </p>
 
+<div style="display: inline_block" align="center" ><br>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
+
+</div>
 <p align='center'>
     📫 How to reach me: yd2590@columbia.edu
 </p>
