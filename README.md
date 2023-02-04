@@ -34,12 +34,14 @@ Data Engineering | NLP (Semantic Search) | Computer Vision | Software Engineerin
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
 
 </div>
-<p align='center'>
-    📫 How to reach me: yd2590@columbia.edu
-</p>
 
+<br>
 <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saucam&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+<br>
+<p align='center'>
+    Reach me at: yd2590@columbia.edu
 </p>
 
 ![](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fhits.dwyl.com%2Fsaucam%2Fsaucam.json)
