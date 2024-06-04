@@ -28,7 +28,7 @@
 ---
 
 <p align='center'>
-Data Engineering | NLP (Semantic Search) | Computer Vision | Software Engineering
+Data Engineering | NLP | LLM | Computer Vision | Software Engineering
 </p>
 
 <div style="display: inline_block" align="center" ><br>
