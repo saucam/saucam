@@ -1,72 +1,42 @@
-<h1 align='center'>
-    Hello I'm Yash 👋
-</h1>
+## Hey, I'm Yash
 
-<p align='center'>
-    Builder. Maker. Open source enthusiast.
-</p>
-<br>
+I build security infrastructure for AI systems and explore the intersection of technology with classical Indian knowledge traditions.
 
-<div style="display: inline_block" align="center" ><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-</div>
+**Currently:** Building [Highflame](https://highflame.ai) — an AI security platform that protects LLMs and agents against adversarial threats with sub-10ms guardrails, Cedar-based policy enforcement, and taxonomy-driven vulnerability detection.
 
-##
-
-
-<p align='center'>
-
-  <a href="https://www.linkedin.com/in/ydatta/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-</p>
+**Previously:** Data engineering, distributed systems, and large-scale ML pipelines.
 
 ---
 
-<p align='center'>
-Data Engineering | NLP | LLM | Computer Vision | Software Engineering
-</p>
+### What I work on
 
-<div style="display: inline_block" align="center" ><br>
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain-wordmark.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain-wordmark.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+**AI Safety & Security** — Prompt injection detection, jailbreak defense, agentic safety (loop detection, tool call validation, MCP security), credential leakage prevention. Fine-tuned 16+ transformer models for threat classification.
 
-</div>
+**Vedic Computing** — [vibz.art](https://vibz.art) — a creative platform powered by Lilavati, a Rust-based panchang computation engine that models astronomical cycles with mathematical precision. Bridging ancient Indian calendar systems with modern software.
 
-<br>
-<p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saucam&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-<br>
-<p align='center'>
-    Reach me at: yd2590@columbia.edu
-</p>
+**Open Source** — I believe in building in the open. My work spans guardrail engines, policy frameworks, ML model pipelines, and content generation systems.
 
-![](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fhits.dwyl.com%2Fsaucam%2Fsaucam.json)
+---
 
-<!--
-**saucam/saucam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech
 
-Here are some ideas to get you started:
+```
+Languages    Rust · Go · Python · Scala · TypeScript · C++ · Java
+ML/AI        PyTorch · Hugging Face · LangChain · Fine-tuning · RAG
+Data         Spark · Kafka · Flink · ClickHouse
+Infra        Kubernetes · Docker · Prometheus · OTEL · Cedar
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Writing
+
+I write about things I'm learning — AI safety, systems architecture, LLM research, and occasionally philosophy.
+
+<a href="https://www.linkedin.com/in/ydatta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+---
+
+<sub>yd2590@columbia.edu · Always happy to talk about AI security, distributed systems, or Sanskrit computational linguistics.</sub>
